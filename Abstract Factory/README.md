@@ -9,3 +9,4 @@ Encapsular a escolha das classes concretas a serem utilizadas na criação dos o
 Quando existem dependências inter-relacionadas com lógica de criação não tão simples envolvida.
 
 ## :muscle: Exemplo prático
+
