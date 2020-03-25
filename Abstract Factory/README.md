@@ -4,7 +4,6 @@ Este padrão permite a criação de famílias de objetos relacionados ou depende
 
 Encapsular a escolha das classes concretas a serem utilizadas na criação dos objetos de diversas famílias.
 
-
 ![UMLpng](https://user-images.githubusercontent.com/40917812/76691390-1f1e6780-6629-11ea-806e-ecc8b4fe074d.png)
 
 ## :thinking: Quando usar :grey_question:
