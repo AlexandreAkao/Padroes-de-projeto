@@ -5,7 +5,9 @@ Este padrão permite às classes delegar para subclasses decidirem, isso é feit
 Encapsular a escolha da classe concreta a ser utilizada na criação de objetos de um determinado
 tipo.
 
+<center>
 ![UMLpng](https://user-images.githubusercontent.com/40917812/77593080-4fd88980-6ed2-11ea-9657-b7d5cdd692b8.png)
+</center>
 
 ## :thinking: Quando usar :grey_question:
 
