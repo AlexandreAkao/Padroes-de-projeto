@@ -13,3 +13,9 @@ cada passo.
 Quando poderia haver diversas variedades de um objeto. A diferença chave para o padrão factory é que o padrão factory é utilizado quando o processo de criação é feito num único passo, enquanto o padrão builder é utilizado quando a criação é um processo que envolvem vários passos.
 
 ## :muscle: Exemplo prático
+
+Estabelecimentos de *fast-food* normalmente tem seus lanches com muitas opções parar você modificar, colocando certo queijo, carne, mudando a bebida.
+
+No pedido de um lanche infantil em que pode ter a escolha de um brinque a pessoal também tem a possibilidade de escolher seu brinquedo.
+
+Imagine que você esteja em um fast-food e que tenha pedido um lanche ao atendente. Este, por sua vez, repassa o pedido para a cozinha, onde o lanche é produzido, construa o lanche utilizando o **padrão Builder**.
