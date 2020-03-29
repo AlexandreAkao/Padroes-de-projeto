@@ -1,6 +1,6 @@
 # :nail_care: Decorator
 
-Adicionar funcionalidade a umobjeto dinamicamente.
+Adicionar funcionalidade a um objeto dinamicamente.
 
 Permite adicionar um comportamento a um objeto já existente em tempo de execução, ou seja, agrega dinamicamente responsabilidades adicionais a um objeto.
 

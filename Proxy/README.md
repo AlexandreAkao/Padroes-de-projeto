@@ -2,7 +2,7 @@
 
 Controlar as chamadas a um objeto através de outro objeto de mesma interface.
 
-Esse padrão define um intermediário para controlar o acesso a umdeterminado objeto, podendo adicionar funcionalidades que esse objeto não possui.
+Esse padrão define um intermediário para controlar o acesso a um determinado objeto, podendo adicionar funcionalidades que esse objeto não possui.
 
 ![UMLpng](https://user-images.githubusercontent.com/40917812/77858897-bb756c00-71dc-11ea-883a-5d582b5c9e67.png)
 
