@@ -16,3 +16,4 @@ Quando o conjunto de handlers e suas encomendas devem mudar no momento de execu�
 
 ## :muscle: Exemplo prático
 
+Efetuando o pagamento em um banco, com diversos tipos de banco e cada um com sua implementação de como ocorre o pagamento.
